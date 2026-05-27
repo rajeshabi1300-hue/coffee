@@ -1,0 +1,157 @@
+nav,a{
+    color: white;
+    text-decoration: none;
+    word-spacing: 20px;
+    padding-top: 55px;
+}
+#hello{
+    color: orangered;
+}
+.demo{
+    background-image: url(images/coffee.jpg); height: 700px; width: 1340px;
+    background-size: cover;
+}
+h2{
+    font-size: 30px;
+}
+h1,h2{
+    color: white;
+    text-align: center;
+    display: block;
+}
+h1{
+    font-size: 50px;
+}
+#hii{
+    color: orangered;
+}
+.hi{
+    line-height: 80px;
+}
+#g15{
+    position: relative; bottom: 30px;
+    
+}
+#j18{
+    position: relative; bottom: 90px;
+}
+
+
+
+.E{
+    color: brown;
+    display: block;
+    margin-right: 10px;
+    border: 3px solid brown;
+    display: inline;
+}
+#are{
+    border-radius: 300px;
+    border: 8px solid burlywood;
+    background-color: burlywood;
+    position: relative; top: 55px; left: 30px;
+}
+.header1{
+    background-image: url(images/about.jpg);height: 100px; width: 100px;
+}
+.name{
+    font-size: 30px;
+}
+.header{
+    font-size: 30px;
+}
+.what{
+    background-image: url(images/bg.jpg); height: 350px; width: 1340px;
+    background-size: cover;
+    text-align: center;
+    padding-top: 150px;
+    line-height: 30px;
+}
+.what h1,#y78{
+    font-size: 70px;
+    
+}
+.hello1,.T{
+     border: 5px solid black;
+     border-radius: 200px;
+}
+.As{
+    border: 2px solid burlywood;
+    border-radius: 200px;
+    background-color: burlywood;
+    position: relative;
+    right: 55px;
+    bottom: 30px;
+    padding: 15px;
+    width: 15px;
+}
+#f6{
+    position: relative; bottom: 80px;
+}
+.b7{
+    position: relative; right: 160px;
+}
+.k7{
+    position: relative; right: 170px;
+}
+.when,#when{
+    background-image: url(images/bg.jpg); height: 550px; width: 1400px;
+    background-size: cover;
+    
+}
+#when{
+    position: relative; right: 40px; 
+    text-align: center;
+}
+.when{
+    margin-left: 30px;
+}
+#when h3{
+    display: inline; 
+    border: 5px solid burlywood;
+    padding: 2px;
+}
+#h9{
+    position: relative; bottom: 10px;
+}
+#p54{
+    position: relative; bottom: 50px; left: 20px;
+}
+    
+.a{
+    width: 400px; 
+    height: 30px;
+    border: 5px solid black
+}
+.A29{
+    background-image: url(images/bg.jpg); height: 500px; width: 1340px;
+    background-size: cover;
+}
+.A29,.p{
+    font-size: 20px;
+}
+#S7{
+    display: inline;
+    border: 2px solid;
+    padding: 10px;
+}
+#H5{
+    background-image: url(images/bg.jpg); height: 150px; width: 1340px;
+    background-size: cover;
+    text-align: center;
+    position: relative; bottom: 25px;
+}
+#L88{
+    margin: 40px;
+    position: relative;
+    bottom: 10px;
+    
+}
+#S6{
+    text-align: center;
+}
+#F7{
+    text-align: center;
+}
+
+
